@@ -10,8 +10,6 @@ I found my answer in **Dos Navigator 1.5**, an orthodox file manager first relea
 
 This theme ports those colors to Nimble Commander.
 
-![Screenshot](./screenshot.png)
-
 ## Installation from GitHub
 
 1. Download [`Dos Navigator.json`](./Dos%20Navigator.json).
