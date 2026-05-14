@@ -1,5 +1,7 @@
 # Dos Navigator Theme for Nimble Commander
 
+![Preview](preview.png)
+
 Norton Commander's blue and yellow are iconic — and that's exactly why I needed to leave.
 
 [Nimble Commander](https://magnumbytes.com/) does a faithful job recreating the classic theme, and for most people it's perfect. But after long working sessions, I started looking for something quieter: less saturation, less contrast, more nostalgia.
