@@ -6,7 +6,7 @@ Norton Commander's blue and yellow are iconic — and that's exactly why I neede
 
 [Nimble Commander](https://magnumbytes.com/) does a faithful job recreating the classic theme, and for most people it's perfect. But after long working sessions, I started looking for something quieter: less saturation, less contrast, more nostalgia.
 
-I found my answer in **Dos Navigator 1.5**, an orthodox file manager first released in 1991 that quietly chose its own palette instead of copying Norton Commander's. Its default colors are easy on the eyes, fast to scan, and pleasantly retro.
+I found my answer in **[Dos Navigator 1.5](https://www.abandonwaredos.com/abandonware-game.php?abandonware=DOS+Navigator+v+1.5&gid=3046)**, an orthodox file manager first released in 1991 that quietly chose its own palette instead of copying Norton Commander's. Its default colors are easy on the eyes, fast to scan, and pleasantly retro.
 
 This theme ports those colors to Nimble Commander.
 
